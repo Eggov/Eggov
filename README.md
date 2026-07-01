@@ -8,7 +8,7 @@ I transform raw operational data into interactive, insights-driven dashboards th
 ### 🛠️ My Tech Stack
 * **Data Visualization & BI:** Power BI, DAX, Power Query (M)
 * **Database Management:** SQL (PostgreSQL / MySQL) — Advanced Queries, Window Functions, CTEs
-* **Data Processing:** MS Excel (Advanced), Python (Pandas, NumPy — *якщо плануєш/вчив*)
+* **Data Processing:** MS Excel (Advanced), Python (Pandas, NumPy)
 
 ---
 
@@ -18,7 +18,7 @@ I transform raw operational data into interactive, insights-driven dashboards th
 ---
 
 ### 📫 Connect with Me:
-* **LinkedIn:** [www.linkedin.com/in/eggov]
-* **Upwork / Fiverr:** [(https://www.upwork.com/freelancers/~01b984800396207aae?mp_source=share)]
+* **LinkedIn:** [linkedin.com/in/andrii-lohinov](https://www.linkedin.com/in/andrii-lohinov)
+* **Upwork:** [Andrii's Upwork Profile](https://www.upwork.com/freelancers/~01b984800396207aae)
 * **Email:** eggovuser@gmail.com
 
