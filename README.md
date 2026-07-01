@@ -13,7 +13,7 @@ I transform raw operational data into interactive, insights-driven dashboards th
 ---
 
 ### 📊 Featured Projects
-* **[Executive Sales & Logistics Dashboard]()** *Power BI Case Study on identifying corporate margin leaks, optimizing First Class shipping expenses, and fixing discount tiers strategy.*
+* **[Executive Sales & Logistics Dashboard](https://github.com/Eggov/Superstore-PowerBI-Analysis)** *Power BI Case Study on identifying corporate margin leaks, optimizing First Class shipping expenses, and fixing discount tiers strategy.*
 
 ---
 
